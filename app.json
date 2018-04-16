@@ -1,0 +1,12 @@
+{
+  "name" : "TestApp",
+  "description" : "App for demonstration",
+  "details" : "This is an app ",
+  "favicon" :  {
+  "path": "./abc.jpg"
+    },
+  "developer" : "Tookan Inc",
+  "abilities" : {
+  "side-menu" : true
+    }
+  }
